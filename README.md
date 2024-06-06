@@ -1,6 +1,6 @@
 önecelikle terminali açıp :pip install pyinstaller yazın 
 
-sonra codu exeye dönüstürmek için : pyinstaller --onefile your_script.py 
+sonra kodu exeye dönüstürmek için : pyinstaller --onefile your_script.py 
 
 python code : 
 
