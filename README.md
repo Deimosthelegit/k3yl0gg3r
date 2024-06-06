@@ -1,3 +1,9 @@
+önecelikle terminali açıp :pip install pyinstaller yazın 
+
+sonra codu exeye dönüstürmek için : pyinstaller --onefile your_script.py 
+
+python code : 
+
     import smtplib
     from email.mime.multipart import MIMEMultipart
     from email.mime.text import MIMEText
@@ -64,3 +70,7 @@
     while True:
     schedule.run_pending()
     time.sleep(1)
+   
+    # Yardım için
+    # Discord deimosthelegit 
+    # https://discord.gg/4hF9rTBx
