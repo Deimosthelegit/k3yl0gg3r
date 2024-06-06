@@ -73,4 +73,5 @@ python code :
    
     # Yardım için
     # Discord deimosthelegit 
-    # https://discord.gg/4hF9rTBx
+
+   
